@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.outer-div mat-card{
+    padding:0px;
+}
+.forgot{
+   text-align: right;
+   padding: 5px 10px;
+   text-decoration: none;
+}
+.heading{
+    text-align: center;
+    background-color: #fff;
+}
+.card{
+    background-color:darkgray;
+}
+.login-form{
+    padding: 20px;
+
+}
